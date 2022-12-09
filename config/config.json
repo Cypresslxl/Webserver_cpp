@@ -1,0 +1,8 @@
+{
+    "logfile"       : "/a_log/main.log",
+    "resourcefile"  : "/resource/r1/index.html",
+    "ip"            : "127.0.0.1",
+    "port"          : 10000,
+    "threads"       : 4,
+    "Buffer"        : 10240
+}

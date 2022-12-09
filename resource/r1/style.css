@@ -1,0 +1,302 @@
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    .container {
+        background-color: rgb(255, 255, 255);
+        width: 1200px;
+        height: 4200px;
+        position: relative;
+        left: 50px;
+        margin: 0 auto;
+        border: 0px solid rgb(0, 0, 0);
+        box-shadow: 0px 0px 10px rgb(0, 0, 0)
+    }
+    
+    .head {
+        width: 1200px;
+        height: 350px;
+        background-image: url(01.jpg);
+        background-color: #fff;
+        position: relative;
+        background-size: cover;
+    }
+    
+    .headA {
+        background-color: rgb(177, 177, 177);
+        width: 700px;
+        height: 200px;
+        position: absolute;
+        top: 75px;
+        left: 250px;
+        background-image: url(02.jpg);
+        background-size: cover;
+    }
+    
+    .nav {
+        width: 600px;
+        height: 60px;
+        border-radius: 20px;
+        background-color: rgb(255, 255, 255);
+        margin: 20px 300px 0px 300px;
+        border: 1px solid rgb(0, 0, 0);
+    }
+    
+    .articleA {
+        display: inline-block;
+        width: 300px;
+        height: 300px;
+        background-color: rgb(243, 243, 243);
+        margin: 40px 40px 20px 80px;
+        background-image: url(2.jpg);
+        background-size: cover;
+        border: 1px solid rgb(231, 162, 71);
+        box-shadow: 0px 0px 10px rgb(229, 199, 132)
+    }
+    
+    .articleB {
+        display: inline-block;
+        width: 300px;
+        height: 300px;
+        background-color: rgb(243, 243, 243);
+        margin: 40px 40px 20px 20px;
+        background-image: url(3.jpg);
+        background-size: cover;
+        border: 1px solid rgb(231, 162, 71);
+        box-shadow: 0px 0px 10px rgb(229, 199, 132)
+    }
+    
+    .articleC {
+        display: inline-block;
+        width: 300px;
+        height: 300px;
+        background-color: rgb(243, 243, 243);
+        margin: 40px 40px 20px 20px;
+        background-image: url(4.jpg);
+        background-size: cover;
+        border: 1px solid rgb(231, 162, 71);
+        box-shadow: 0px 0px 10px rgb(229, 199, 132)
+    }
+    
+    .xqah {
+        background-color: rgb(231, 162, 71);
+        text-align: center;
+        margin: 100px 0px 0px 0px;
+        height: 50px;
+    }
+    
+    .zwjs {
+        text-align: center;
+        width: 200px;
+        height: 50px;
+        background-color: rgb(231, 162, 71);
+        border-radius: 20px;
+        margin: 100px auto;
+        font: bold 20px Helvetica;
+        color: black;
+    }
+    
+    .PQ {
+        line-height: 50px;
+    }
+    
+    .articleyi {
+        width: 1200px;
+        height: 600px;
+        background-color: #fff;
+        margin: 100px;
+        margin: 100px auto;
+        background-image: url(1.jpg);
+        background-size: cover;
+    }
+    
+    .tp {
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        background-color: rgb(156, 154, 154);
+        margin: 80px 0px -100px 200px;
+        background-image: url(touxiang.jpg);
+        background-size: cover;
+    }
+    
+    .wz {
+        color: #fff;
+        font: bold 20px Helvetica;
+        margin: -100px 0px -100px 350px;
+    }
+    
+    h1 {
+        color: rgb(255, 255, 255);
+        text-align: center;
+    }
+    
+    .zpA {
+        width: 900px;
+        height: 500px;
+        background-image: url(5.jpg);
+        background-size: cover;
+        display: inline-block;
+        margin: 100px 50px 0px;
+    }
+    
+    .zpB {
+        width: 700px;
+        height: 500px;
+        background-image: url(6.jpg);
+        background-size: cover;
+        display: inline-block;
+        margin: 60px 0px 0px 0px;
+    }
+    
+    .zpC {
+        width: 400px;
+        height: 300px;
+        background-image: url(7.jpg);
+        background-size: cover;
+        display: inline-block;
+    }
+    
+    .zpD {
+        width: 700px;
+        height: 500px;
+        background-image: url(8.jpg);
+        background-size: cover;
+        display: inline-block;
+        margin: 50px 200px 0px;
+    }
+    
+    .pA,
+    .pB,
+    .pC {
+        font: bold 20px Helvetica;
+        margin: 0px 200PX 0px 120px;
+        display: inline-block;
+    }
+    
+    .bj {
+        /* margin: 100px auto; */
+        width: 1200px;
+        height: 480px;
+        background-color: rgb(226, 179, 117, 0.5);
+        margin: 60px 0px 0px;
+    }
+    
+    .zpzs {
+        width: 1200px;
+        height: 1800px;
+        background-color: rgb(247, 187, 139, 0.3);
+    }
+    
+    .zpjsB {
+        font: bold 40px Helvetica;
+    }
+    
+    .zpjsA {
+        margin: 100px auto;
+        text-align: center;
+        width: 200px;
+        height: 60px;
+        background-color: rgb(243, 208, 94);
+        border-radius: 50px;
+    }
+    
+    .navA {
+        display: inline-block;
+    }
+    
+    .navB {
+        display: inline-block;
+    }
+    
+    .navC {
+        display: inline-block;
+    }
+    
+    .navD {
+        display: inline-block;
+    }
+    
+    a {
+        color: black;
+        text-decoration: none;
+        display: inline-block;
+    }
+    
+    .navA,
+    .navB,
+    .navC,
+    .navD {
+        margin: 20px 0px 0px 70px;
+    }
+    
+    .zt {
+        color: black;
+        font: bold 35px Helvetica;
+    }
+    
+    .footer {
+        margin: 100px 0px 0px 20px;
+    }
+    
+    .footer p {
+        color: rgb(155, 154, 153);
+        font: bold 20px Helvetica;
+    }
+    
+    .dx {
+        z-index: 1;
+        display: inline-block;
+        width: 0;
+        height: 0;
+        border-bottom: 100px solid cyan;
+        border-left: 50px solid transparent;
+        border-right: 50px solid transparent;
+        position: fixed;
+        top: 100px;
+        left: 40px;
+        animation: move 8s linear infinite normal;
+        transition: all 3s;
+    }
+    
+    .dxb {
+        z-index: 1;
+        display: inline-block;
+        width: 0;
+        height: 0;
+        border-top: 100px solid rgb(228, 146, 39);
+        border-left: 50px solid transparent;
+        border-right: 50px solid transparent;
+        position: fixed;
+        top: 100px;
+        left: 40px;
+        animation: moveb 8s linear infinite normal;
+        transition: all 3s;
+    }
+    
+    .dxb:hover {
+        transform: translate(0px, 0px) scale( 1.5, 5) rotate(45deg);
+    }
+    
+    .dx:hover {
+        transform: translate(0px, 0px) scale( 1.5, 5) rotate(45deg);
+    }
+    
+    @keyframes moveb {
+        0% {
+            transform: rotate(0deg);
+        }
+        100% {
+            transform: rotate(360deg);
+        }
+    }
+    
+    @keyframes move {
+        0% {
+            transform: rotate(0deg);
+        }
+        100% {
+            transform: rotate(-360deg);
+        }
+    }

@@ -1,0 +1,87 @@
+[
+{
+  "directory": "/root/t1/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -pthread -Wall -o CMakeFiles/main.dir/main.cpp.o -c /root/t1/main.cpp",
+  "file": "/root/t1/main.cpp"
+},
+{
+  "directory": "/root/t1/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -pthread -Wall -o CMakeFiles/main.dir/dispatcher/Dispatcher.cpp.o -c /root/t1/dispatcher/Dispatcher.cpp",
+  "file": "/root/t1/dispatcher/Dispatcher.cpp"
+},
+{
+  "directory": "/root/t1/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -pthread -Wall -o CMakeFiles/main.dir/dispatcher/EpollDispatcher.cpp.o -c /root/t1/dispatcher/EpollDispatcher.cpp",
+  "file": "/root/t1/dispatcher/EpollDispatcher.cpp"
+},
+{
+  "directory": "/root/t1/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -pthread -Wall -o CMakeFiles/main.dir/dispatcher/PollDispatcher.cpp.o -c /root/t1/dispatcher/PollDispatcher.cpp",
+  "file": "/root/t1/dispatcher/PollDispatcher.cpp"
+},
+{
+  "directory": "/root/t1/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -pthread -Wall -o CMakeFiles/main.dir/dispatcher/SelectDispatcher.cpp.o -c /root/t1/dispatcher/SelectDispatcher.cpp",
+  "file": "/root/t1/dispatcher/SelectDispatcher.cpp"
+},
+{
+  "directory": "/root/t1/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -pthread -Wall -o CMakeFiles/main.dir/kits/Buffer.cpp.o -c /root/t1/kits/Buffer.cpp",
+  "file": "/root/t1/kits/Buffer.cpp"
+},
+{
+  "directory": "/root/t1/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -pthread -Wall -o CMakeFiles/main.dir/kits/Channel.cpp.o -c /root/t1/kits/Channel.cpp",
+  "file": "/root/t1/kits/Channel.cpp"
+},
+{
+  "directory": "/root/t1/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -pthread -Wall -o CMakeFiles/main.dir/src/EventLoop.cpp.o -c /root/t1/src/EventLoop.cpp",
+  "file": "/root/t1/src/EventLoop.cpp"
+},
+{
+  "directory": "/root/t1/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -pthread -Wall -o CMakeFiles/main.dir/src/TcpConnection.cpp.o -c /root/t1/src/TcpConnection.cpp",
+  "file": "/root/t1/src/TcpConnection.cpp"
+},
+{
+  "directory": "/root/t1/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -pthread -Wall -o CMakeFiles/main.dir/src/TcpServer.cpp.o -c /root/t1/src/TcpServer.cpp",
+  "file": "/root/t1/src/TcpServer.cpp"
+},
+{
+  "directory": "/root/t1/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -pthread -Wall -o CMakeFiles/main.dir/task/HttpRequest.cpp.o -c /root/t1/task/HttpRequest.cpp",
+  "file": "/root/t1/task/HttpRequest.cpp"
+},
+{
+  "directory": "/root/t1/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -pthread -Wall -o CMakeFiles/main.dir/task/Httpresponse.cpp.o -c /root/t1/task/Httpresponse.cpp",
+  "file": "/root/t1/task/Httpresponse.cpp"
+},
+{
+  "directory": "/root/t1/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -pthread -Wall -o CMakeFiles/main.dir/thread/ThreadPool.cpp.o -c /root/t1/thread/ThreadPool.cpp",
+  "file": "/root/t1/thread/ThreadPool.cpp"
+},
+{
+  "directory": "/root/t1/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -pthread -Wall -o CMakeFiles/main.dir/thread/WorkerThread.cpp.o -c /root/t1/thread/WorkerThread.cpp",
+  "file": "/root/t1/thread/WorkerThread.cpp"
+},
+{
+  "directory": "/root/t1/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -pthread -Wall -o CMakeFiles/main.dir/utility/Logger.cpp.o -c /root/t1/utility/Logger.cpp",
+  "file": "/root/t1/utility/Logger.cpp"
+},
+{
+  "directory": "/root/t1/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -pthread -Wall -o CMakeFiles/main.dir/utility/System.cpp.o -c /root/t1/utility/System.cpp",
+  "file": "/root/t1/utility/System.cpp"
+},
+{
+  "directory": "/root/t1/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -pthread -Wall -o CMakeFiles/main.dir/utility/jjson.cpp.o -c /root/t1/utility/jjson.cpp",
+  "file": "/root/t1/utility/jjson.cpp"
+}
+]
